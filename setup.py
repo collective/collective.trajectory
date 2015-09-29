@@ -24,6 +24,7 @@ setup(name='collective.trajectory',
       zip_safe=False,
       install_requires=[
           'setuptools',
+          'traject'
           # -*- Extra requirements: -*-
       ],
       entry_points="""
